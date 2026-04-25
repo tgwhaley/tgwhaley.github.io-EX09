@@ -27,16 +27,16 @@ description: >- # this means to ignore newlines until "baseurl:"
   students enrolled in the class.
 
 baseurl: "/tgwhaley.github.io-EX09" # the subpath of your site, e.g. /blog
-url: "tgwhaley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://tgwhaley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username: tgwhaley
 
 # Build settings
 # Build settings
-remote_theme: "tgwhaley/EX09"
+remote_theme: "tgwhaley/ex09"
 
 plugins:
-  - jekyll-remote-theme
+   - jekyll-remote-theme
 #- jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default.
