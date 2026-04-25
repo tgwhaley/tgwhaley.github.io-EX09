@@ -33,10 +33,12 @@ github_username: tgwhaley
 
 # Build settings
 # Build settings
-remote_theme: "tgwhaley/ex09"
+# remote_theme: "tgwhaley/ex09"
+theme: jekyll-theme-primer
 
-plugins:
-   - jekyll-remote-theme
+
+# plugins:
+   # - jekyll-remote-theme
 #- jekyll-feed
 # Exclude from processing.
 # The following items will not be processed, by default.
